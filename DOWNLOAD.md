@@ -1,18 +1,43 @@
-# 📦 Proyectos APK | Luis Manuel Tapia Bautista
+# 📦 Proyectos | Luis Manuel Tapia Bautista
 
-Bienvenido/a a mi repositorio de aplicaciones Android. Aquí encontrarás una lista de proyectos desarrollados por mí, disponibles para descarga directa desde Google Drive.
+Bienvenido/a a mi repositorio de aplicaciones Android. Aquí encontrarás una lista de proyectos desarrollados por mí, disponibles para descarga directa.
 
 ---
 
 ## 🚀 Lista de Proyectos
 
 ### 1. **Medical**
-- 📄 Descripción: es una herramienta diseñada para simplificar los cálculos de dosificación y goteo de medicamentos para profesionales de la salud.
+Es una herramienta diseñada para simplificar los cálculos de dosificación y goteo de medicamentos para profesionales de la salud.
+
+📥 [Descargar apk](https://github.com/luismtapia/portafolio/raw/refs/heads/master/archivos/apks/medical.apk)
 
 
-📥 [Descargar](https://drive.google.com/file/d/1EbMPWtBuBZmn28qJqew_26OkHA7t6pcE/view?usp=sharing)
+### 2. **analyzer-text**
+Paquete modular en JavaScript para extraer métricas clave de cualquier texto. Ideal para analizar textos
+
+📥 [Ver](https://www.npmjs.com/package/analyzer-text)
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+<img src="https://github.com/luismtapia/icons-for-readme/blob/main/.github/download.svg" width="40px" alt="Octicons Icon"/>
 
 
 ### 5. **MiAgendaApp**
