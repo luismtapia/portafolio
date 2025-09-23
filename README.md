@@ -13,7 +13,7 @@ Reflejan mi compromiso con la mejora continua, la colaboración abierta y la cre
 
 Para ver la lista completa de proyectos disponibles para descarga, visita el siguiente archivo:
 
-👉 [Ir a descargars](DOWNLOAD.md)
+👉 [Ir a descargas](DOWNLOAD.md)
 
 
 
@@ -21,7 +21,30 @@ Para ver la lista completa de proyectos disponibles para descarga, visita el sig
 
 ## Proyectos
 
+---
+<br>
+<br>
+
+## Paquetes de software 
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luismtapia&repo=analyzer-text)](https://github.com/luismtapia/analyzer-text)
+
+
+## Html
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luismtapia&repo=podo-step)](https://github.com/luismtapia/podo-step)
+
+<br>
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luismtapia&repo=chatLS)](https://github.com/luismtapia/chatLS)
+
+
+## Java
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luismtapia&repo=proyectos-java-ITC)](https://github.com/luismtapia/proyectos-java-ITC)
 
 
 
@@ -32,7 +55,10 @@ Para ver la lista completa de proyectos disponibles para descarga, visita el sig
   Ejemplos
 </div>
 ---
-Lenguajes de programacion usados:
+
+# Lenguajes de programacion usados:
+
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luismtapia&layout=compact)](https://github.com/luismtapia)
 
