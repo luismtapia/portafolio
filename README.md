@@ -1,5 +1,5 @@
 # 💼 Portafolio Profesional de Proyectos
-Bienvenido a mi espacio de desarrollo. Este portafolio reúne proyectos desarrollados.
+Bienvenido a mi espacio de desarrollo. Este portafolio reúne proyectos desarrollados. Esta construido en flutter pero tambien hay una version html y css en camino.
 
 
 ## Estadísticas de GitHub
@@ -17,6 +17,21 @@ Para ver la lista completa de proyectos disponibles para descarga, visita el sig
 
 
 
+
+
+## Proyectos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luismtapia&repo=analyzer-text)](https://github.com/luismtapia/analyzer-text)
+
+
+
+
+
+---
+<div >
+  Ejemplos
+</div>
+---
 Lenguajes de programacion usados:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luismtapia&layout=compact)](https://github.com/luismtapia)
