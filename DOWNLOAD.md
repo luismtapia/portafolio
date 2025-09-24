@@ -2,17 +2,35 @@
 
 Bienvenido/a a mi repositorio de aplicaciones Android. Aquí encontrarás una lista de proyectos desarrollados por mí, disponibles para descarga directa.
 
----
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## 🚀 Lista de Proyectos
+<br>
+<br>
+<h2 align="center">
+Medical
+</h2>
 
-### 1. **Medical**
 Es una herramienta diseñada para simplificar los cálculos de dosificación y goteo de medicamentos para profesionales de la salud.
 
-📥 [Descargar apk](https://github.com/luismtapia/portafolio/raw/refs/heads/master/archivos/apks/medical.apk)
+<div align="center">
+<img src="https://github.com/luismtapia/portafolio/blob/master/archivos/download-16.svg" width="40px" alt="Download"/>
+</div>
 
+[Descargar apk](https://github.com/luismtapia/portafolio/raw/refs/heads/master/archivos/apks/medical.apk)
 
-### 2. **analyzer-text**
+<br>
+<br>
+<br>
+<br>
+<h2 align="center">
+Analizador de texto
+</h2>
+
 Paquete modular en JavaScript para extraer métricas clave de cualquier texto. Ideal para analizar textos
 
 📥 [Ver](https://www.npmjs.com/package/analyzer-text)
@@ -37,22 +55,41 @@ Paquete modular en JavaScript para extraer métricas clave de cualquier texto. I
 
 ---
 
-<img src="https://github.com/luismtapia/icons-for-readme/blob/main/.github/download.svg" width="40px" alt="Octicons Icon"/>
 
+<br>
+<br>
+<br>
+<br>
+<h2 align="center">
+MiAgendaApp
+</h2>
 
-### 5. **MiAgendaApp**
 - 📄 Descripción: Aplicación para gestionar eventos y tareas personales.
 - 📥 [Descargar APK](https://drive.google.com/file/d/1EbMPWtBuBZmn28qJqew_26OkHA7t6pcE/view?usp=drive_link)
 
 ---
 
-### 6. **ControlGastos**
+<br>
+<br>
+<br>
+<br>
+<h2 align="center">
+ControlGastos
+</h2>
+
 - 📄 Descripción: Herramienta para llevar el control de tus ingresos y egresos.
 - 📥 [Descargar APK](https://drive.google.com/file/d/...)
 
 ---
 
-### 7. **NotasRápidas**
+<br>
+<br>
+<br>
+<br>
+<h2 align="center">
+NotasRápidas
+</h2>
+
 - 📄 Descripción: App ligera para tomar notas rápidas con sincronización local.
 - 📥 [Descargar APK](https://drive.google.com/file/d/...)
 
