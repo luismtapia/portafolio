@@ -1,37 +1,76 @@
-# 💼 Portafolio Profesional de Proyectos
-Bienvenido a mi espacio de desarrollo. Este portafolio reúne proyectos desarrollados. Esta construido en flutter pero tambien hay una version html y css en camino.
+<h2 align="center">
+💼 Portafolio Profesional de Proyectos
+</h2>
 
 
-## Estadísticas de GitHub
-A continuación, puedes visualizar métricas en tiempo real de mi actividad como desarrollador en GitHub. 
-Reflejan mi compromiso con la mejora continua, la colaboración abierta y la creación de soluciones con impacto.
+Bienvenido a mi espacio de desarrollo. Este portafolio reúne proyectos desarrollados a lo largo de la carrera y bootcamps. Esta construido en flutter pero tambien hay una version html y css en camino.
 
-[![Luis Manuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=luismtapia&show_icons=true&theme=merko)](https://github.com/luismtapia)
+![Static Badge](https://img.shields.io/badge/Puedes%20ver%20la%20p%C3%A1gina%20aqui-%234285F4?style=flat&logo=googlechrome&logoColor=%23FBBC04&link=https%3A%2F%2Fgithub.com%2Fluismtapia%2Fportafolio)
 
 
-## 📥 Descargas
+<br>
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luismtapia&layout=donut)](https://github.com/luismtapia/github-readme-stats)
+
+<br>
+<br>
+<br>
+
+
+<h3 align="center">
+   📥 Descargas
+</h3>
+
+<br>
 
 Para ver la lista completa de proyectos disponibles para descarga, visita el siguiente archivo:
 
-👉 [Ir a descargas](DOWNLOAD.md)
+<div align="right">
+
+
+👉
+![Static Badge](https://img.shields.io/badge/Descargas-%2385C8C8?style=flat&logo=abdownloadmanager&logoColor=%2300465B&link=https%3A%2F%2Fgithub.com%2Fluismtapia%2Fportafolio%2Fblob%2Fmaster%2FDOWNLOAD.md)
+
+</div>
 
 
 
 
 
-## Proyectos
 
----
+
+
+
+
+<br>
+<br>
+<br>
+
+
+<h3 align="center">
+💼 Lista de Proyectos
+</h3>
+
+
+
 <br>
 <br>
 
-## Paquetes de software 
+<h3 align="center">
+Paquetes de software 
+</h3>
+
+
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luismtapia&repo=analyzer-text)](https://github.com/luismtapia/analyzer-text)
 
 
-## Html
 
+<h3 align="center">
+Html y css
+</h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luismtapia&repo=podo-step)](https://github.com/luismtapia/podo-step)
 
@@ -41,8 +80,10 @@ Para ver la lista completa de proyectos disponibles para descarga, visita el sig
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luismtapia&repo=chatLS)](https://github.com/luismtapia/chatLS)
 
 
-## Java
 
+<h3 align="center">
+Java
+</h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luismtapia&repo=proyectos-java-ITC)](https://github.com/luismtapia/proyectos-java-ITC)
 
@@ -50,28 +91,14 @@ Para ver la lista completa de proyectos disponibles para descarga, visita el sig
 
 
 
----
-<div >
-  Ejemplos
-</div>
----
 
-# Lenguajes de programacion usados:
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luismtapia&layout=compact)](https://github.com/luismtapia)
+[agradecimiento a Anuraghazra](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only)
 
 
 
 
 
-https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luismtapia&repo=github-readme-stats)](https://github.com/luismtapia/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luismtapia&layout=donut)](https://github.com/luismtapia/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luismtapia&layout=donut-vertical)](https://github.com/luismtapia/github-readme-stats)
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luismtapia)](https://github.com/luismtapia/github-readme-stats)
