@@ -18,10 +18,32 @@ Medical
 Es una herramienta diseñada para simplificar los cálculos de dosificación y goteo de medicamentos para profesionales de la salud.
 
 <div align="center">
-<img src="https://github.com/luismtapia/portafolio/blob/master/archivos/download-16.svg" width="40px" alt="Download"/>
+<img src="https://github.com/luismtapia/portafolio/blob/master/archivos/download-16.svg" width="40px" alt="Preview gif"/>
 </div>
 
-[Descargar apk](https://github.com/luismtapia/portafolio/raw/refs/heads/master/archivos/apks/medical.apk)
+![Icono de repositorio](https://raw.githubusercontent.com/primer/octicons/main/icons/download-24.svg)
+
+
+📥 [Descargar Medical para android](https://github.com/luismtapia/portafolio/raw/refs/heads/master/archivos/apks/medical.apk)
+
+<br>
+<br>
+<br>
+<br>
+<h2 align="center">
+Roblox Codex
+</h2>
+
+Es una herramienta diseñada para simplificar los cálculos de dosificación y goteo de medicamentos para profesionales de la salud.
+
+<div align="center">
+<img src="https://github.com/luismtapia/portafolio/blob/master/archivos/download-16.svg" width="40px" alt="Preview gif"/>
+</div>
+
+![Icono de repositorio](https://raw.githubusercontent.com/primer/octicons/main/icons/download-24.svg)
+
+
+📥 [Descargar Roblox Codex para android](https://github.com/luismtapia/portafolio/raw/refs/heads/master/archivos/apks/robloxcodes.apk)
 
 <br>
 <br>
