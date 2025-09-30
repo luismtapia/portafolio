@@ -21,10 +21,12 @@ Es una herramienta diseñada para simplificar los cálculos de dosificación y g
 <img src="https://github.com/luismtapia/portafolio/blob/master/archivos/download-16.svg" width="40px" alt="Preview gif"/>
 </div>
 
-![Icono de repositorio](https://raw.githubusercontent.com/primer/octicons/main/icons/download-24.svg)
+![Descargar Medical](https://raw.githubusercontent.com/primer/octicons/main/icons/download-24.svg)
 
 
 📥 [Descargar Medical para android](https://github.com/luismtapia/portafolio/raw/refs/heads/master/archivos/apks/medical.apk)
+
+[![Descargar Medical](https://raw.githubusercontent.com/primer/octicons/main/icons/download-16.svg)](https://github.com/luismtapia/portafolio/raw/refs/heads/master/archivos/apks/medical.apk "Descargar apk para Android")
 
 <br>
 <br>
