@@ -15,18 +15,25 @@ Bienvenido/a a mi repositorio de aplicaciones Android. Aquí encontrarás una li
 Medical
 </h2>
 
-Es una herramienta diseñada para simplificar los cálculos de dosificación y goteo de medicamentos para profesionales de la salud.
 
+![Repositorio privado](https://raw.githubusercontent.com/primer/octicons/main/icons/lock-24.svg)
+
+
+Es una herramienta diseñada para simplificar los cálculos de dosificación y goteo de medicamentos para profesionales de la salud. 
+[![Descargar Medical](https://raw.githubusercontent.com/primer/octicons/main/icons/download-16.svg)](https://github.com/luismtapia/portafolio/raw/refs/heads/master/archivos/apks/medical.apk "Descargar apk para Android")
+
+
+<br>
 <div align="center">
-<img src="https://github.com/luismtapia/portafolio/blob/master/archivos/download-16.svg" width="40px" alt="Preview gif"/>
+    <img src="https://github.com/luismtapia/portafolio/blob/master/archivos/download-16.svg" width="40px" alt="Preview gif"/>
 </div>
 
-![Descargar Medical](https://raw.githubusercontent.com/primer/octicons/main/icons/download-24.svg)
+
+<br><br>
 
 
 📥 [Descargar Medical para android](https://github.com/luismtapia/portafolio/raw/refs/heads/master/archivos/apks/medical.apk)
 
-[![Descargar Medical](https://raw.githubusercontent.com/primer/octicons/main/icons/download-16.svg)](https://github.com/luismtapia/portafolio/raw/refs/heads/master/archivos/apks/medical.apk "Descargar apk para Android")
 
 <br>
 <br>
@@ -36,14 +43,20 @@ Es una herramienta diseñada para simplificar los cálculos de dosificación y g
 Roblox Codex
 </h2>
 
-Es una herramienta diseñada para simplificar los cálculos de dosificación y goteo de medicamentos para profesionales de la salud.
+![Repositorio privado](https://raw.githubusercontent.com/primer/octicons/main/icons/lock-24.svg)
+
+
+Es una herramienta diseñada para simplificar los cálculos de dosificación y goteo de medicamentos para profesionales de la salud. 
+[![Descargar Medical](https://raw.githubusercontent.com/primer/octicons/main/icons/download-16.svg)](https://github.com/luismtapia/portafolio/raw/refs/heads/master/archivos/apks/robloxcodes.apk "Descargar apk para Android")
+
+<br>
 
 <div align="center">
 <img src="https://github.com/luismtapia/portafolio/blob/master/archivos/download-16.svg" width="40px" alt="Preview gif"/>
 </div>
 
 ![Icono de repositorio](https://raw.githubusercontent.com/primer/octicons/main/icons/download-24.svg)
-
+<br><br>
 
 📥 [Descargar Roblox Codex para android](https://github.com/luismtapia/portafolio/raw/refs/heads/master/archivos/apks/robloxcodes.apk)
 
@@ -54,6 +67,8 @@ Es una herramienta diseñada para simplificar los cálculos de dosificación y g
 <h2 align="center">
 Analizador de texto
 </h2>
+
+![Repositorio publico](https://raw.githubusercontent.com/primer/octicons/main/icons/unlock-24.svg)
 
 Paquete modular en JavaScript para extraer métricas clave de cualquier texto. Ideal para analizar textos
 
