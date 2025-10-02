@@ -35,9 +35,10 @@ Es una herramienta diseñada para simplificar los cálculos de dosificación y g
 
 <br>
 
-![preview medical](./archivos/medical.gif)
 
-
+<div align="center">
+<img src="https://github.com/luismtapia/portafolio/blob/master/archivos/medical.gif" width="400px" alt="Preview gif"/>
+</div>
 
 
 <br><br>
@@ -72,11 +73,9 @@ Es una herramienta diseñada para simplificar los cálculos de dosificación y g
 
 <br>
 
-![preview medical](./archivos/medical.gif)
-
 
 <div align="center">
-<img src="https://github.com/luismtapia/portafolio/blob/master/archivos/medical.gif" width="80px" alt="Preview gif"/>
+<img src="https://github.com/luismtapia/portafolio/blob/master/archivos/roblox.gif" width="400px" alt="Preview gif"/>
 </div>
 
 ![Icono de repositorio](https://raw.githubusercontent.com/primer/octicons/main/icons/download-24.svg)
@@ -93,9 +92,7 @@ Analizador de texto
 </h2>
 
 <div align="right">
-
 <img src="https://cdn.simpleicons.org/npm/CB3837" alt="npm" width="24" height="24">
-
 </div>
 
 ![Static Badge](https://img.shields.io/badge/P%C3%BAblico%20-%20%F0%9F%94%93%20-%232C3E50?style=flat&logo=github&logoColor=%23181717&labelColor=%23ffffff)
@@ -106,6 +103,12 @@ Analizador de texto
 ![Repositorio publico](https://raw.githubusercontent.com/primer/octicons/main/icons/unlock-24.svg)
 
 Paquete modular en JavaScript para extraer métricas clave de cualquier texto. Ideal para analizar textos
+
+
+<div align="center">
+<img src="https://github.com/luismtapia/portafolio/blob/master/archivos/roblox.gif" width="400px" alt="Preview gif"/>
+</div>
+
 
 📥 [Ver](https://www.npmjs.com/package/analyzer-text)
 
@@ -130,6 +133,12 @@ Aplicacion Portafolio
 
 
 Portafolio digital de proyectos
+
+
+<div align="center">
+<img src="https://github.com/luismtapia/portafolio/blob/master/archivos/portafolio.gif" width="400px" alt="Preview gif"/>
+</div>
+
 
 📥 [Descargar apk](https://github.com/luismtapia/portafolio/raw/refs/heads/master/archivos/apks/portafolio.apk)
 
@@ -163,6 +172,12 @@ MiAgendaApp
 </h2>
 
 - 📄 Descripción: Aplicación para gestionar eventos y tareas personales.
+
+
+<div align="center">
+<img src="https://github.com/luismtapia/portafolio/blob/master/archivos/miagendapp.gif" width="400px" alt="Preview gif"/>
+</div>
+
 - 📥 [Descargar APK](https://drive.google.com/file/d/1EbMPWtBuBZmn28qJqew_26OkHA7t6pcE/view?usp=drive_link)
 
 ---
@@ -202,7 +217,7 @@ NotasRápidas
 ## 📌 Recomendaciones
 - Asegúrate de habilitar la instalación de aplicaciones desde fuentes desconocidas en tu dispositivo Android.
 - Todos los APKs han sido probados en dispositivos Android 10+.
-- Si encuentras errores o tienes sugerencias, puedes contactarme directamente ![Luis Manuel](htpps://github.com/luismtapia).
+- Si encuentras errores o tienes sugerencias, puedes contactarme directamente [Luis Manuel Tapia](htpps://github.com/luismtapia).
 
 ---
 
