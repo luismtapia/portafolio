@@ -62,6 +62,92 @@ Para ver la lista completa de proyectos disponibles para descarga, visita el sig
 
 <br>
 <br>
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+================================================================================
+                      PROYECTOS MÓVILES EN FLUTTER                                  
+================================================================================
+-->
+
+<h3 align="center">
+  <img src="https://cdn.simpleicons.org/flutter/02569B" alt="Flutter" width="24" height="24">
+  <span style="color:#02569B; font-weight:bold;">Flutter</span>
+</h3>
+
+<div align="right">
+  <img src="https://cdn.simpleicons.org/android/3DDC84" alt="Android" width="24" height="24">
+</div>
+
+<div align="right">
+  <a href="/DOWNLOAD.md">
+    <img src="https://img.shields.io/badge/Descargas-%2385C8C8?style=flat&logo=android&logoColor=3DDC84" alt="Descargas">
+  </a>
+</div>
+
+
+
+
+
+
+- **[Medical](/DOWNLOAD.md#medical)** — Gestión médica modular
+- **Roblox Codes** — Visualización y administración de códigos de juego
+- **Portafolio** — Presentación profesional interactiva
+- **MiAgendApp** — Agenda personal con recordatorios
+- **Notas Rápidas** — Captura instantánea y sincronización
+
+
+
+
+
+> 🛠️ **Desarrollado en:** Todos los proyectos están construidos con **Flutter** y **Dart**, integrando soluciones multiplataforma.
+
+
+
+
+---
+
+
+
+
+
+| Proyecto | Descripción Breve | Enlace / Estado |
+| :--- | :--- | :--- |
+| **Medical** | Gestión y seguimiento de información médica.| [Ver Proyecto](LINK_AQUI) |
+| **Roblox Codes** | Visualización y administración de códigos de juego.| En Desarrollo |
+| **Portafolio** | Portafolio digital personal y responsivo. | [Ver Live Demo](LINK_AQUI) |
+| **MiAgendApp** | Agenda digital para citas y organización perso| Versión 1.0 |
+| **Notas Rapidas** | Aplicación minimalista para tomar notas al vuelo. | Disponible |
+
+
+---
+
+
+
+
+
+
+
+
+
+
+<!--
+================================================================================
+                      PROYECTOS npm                                  
+================================================================================
+-->
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -118,6 +204,32 @@ Java
 
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luismtapia)](https://github.com/luismtapia/podo-step)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p align="center">
+  <sub>© Appxion · Soluciones modulares para salud, educación y empresas</sub>
+</p>
+
+
+
+
+
+
 
 
 
