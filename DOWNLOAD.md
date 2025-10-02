@@ -24,9 +24,10 @@ Es una herramienta diseñada para simplificar los cálculos de dosificación y g
 
 
 <br>
-<div align="center">
-    <img src="https://github.com/luismtapia/portafolio/blob/master/archivos/download-16.svg" width="40px" alt="Preview gif"/>
-</div>
+
+![preview medical](./archivos/medical.gif)
+
+
 
 
 <br><br>
