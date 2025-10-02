@@ -5,11 +5,13 @@ Bienvenido/a a mi repositorio de aplicaciones Android. Aquí encontrarás una li
 <br>
 <br>
 <br>
+
+<h2 align="center">
+💼 Lista de Proyectos 
+</h2>
 <br>
 
-## 🚀 Lista de Proyectos
-<br>
-
+Lista de proyectos creados en flutter, dart que puedes descargar.
 Los repositorios privados ![Repositorio privado](https://raw.githubusercontent.com/primer/octicons/main/icons/lock-24.svg) solo estan disponibles para descarga, en cambio los publicos ![Repositorio publicoo](https://raw.githubusercontent.com/primer/octicons/main/icons/unlock-24.svg) puedes acceder a todo el código
 
 <br><br>
