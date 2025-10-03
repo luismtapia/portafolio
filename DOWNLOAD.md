@@ -35,6 +35,9 @@ Medical
 
 </div>
 
+![Static Badge](https://img.shields.io/badge/P%C3%BAblico-%F0%9F%94%93-%23F0F2ED?style=flat&logo=github&logoColor=%23181717&labelColor=%23Ffffff)
+
+
 
 
 ![Static Badge](https://img.shields.io/badge/Privado%20-%F0%9F%94%92-%232C3E50?style=flat&logo=github&logoColor=%23181717&labelColor=%23ffffff)
