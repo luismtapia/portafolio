@@ -64,12 +64,79 @@ Para ver la lista completa de proyectos disponibles para descarga, visita el sig
 <br>
 
 
+![Static Badge](https://img.shields.io/badge/Repositorios%20P%C3%BAblicos-%23FFFFFF?style=for-the-badge&logo=github&logoColor=%23181717&labelColor=%23Ffffff)
+
+
+![Static Badge](https://img.shields.io/badge/Repositorios%20P%C3%BAblicos-%23FFFFFF?style=flat&logo=github&logoColor=%23181717&labelColor=%23Ffffff)
+
+
+![Static Badge](https://img.shields.io/badge/Repositorios%20P%C3%BAblicos-%23FFFFFF?style=flat-square&logo=github&logoColor=%23181717&labelColor=%23Ffffff)
+
+
+
+## 🌐 Proyectos Públicos (Open Source)
+
+Proyectos disponibles para la comunidad y que aceptan contribuciones.
+
+### **[Nombre del Proyecto Público 1]**
+
+> [Descripción del proyecto. Sé conciso y enfócate en el valor.]
+
+* **Tecnologías:** `Python` `Django` `PostgreSQL`
+* **Lenguaje Principal:** Python
+* **Compatibilidad:** 💻 Windows | 🍎 macOS | 🐧 Linux
+* **Repo:** [Ir al Repositorio](URL_REPO_PUBLICO)
+    
+    [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](URL_REPO_PUBLICO)
+
+---
+
+### **[Nombre del Proyecto Público 2]**
+
+> [Sistema de autenticación y manejo de sesiones con JWT.]
+
+* **Tecnologías:** `Node.js` `Express` `MongoDB`
+* **Lenguaje Principal:** JavaScript (ES6+)
+* **Compatibilidad:** ☁️ Web
+* **Repo:** [Ir al Repositorio](URL_REPO_PUBLICO_2)
+
+---
+
+
+## 🔒 Proyectos Privados (Internos y Clientes)
+
+Soluciones desarrolladas bajo contrato o para uso interno, con la opción de descargar una versión *demo* o binaria para su uso.
+
+### **[Nombre del Proyecto Privado 1]**
+
+> [Descripción: Herramienta de automatización de informes financieros para un cliente.]
+
+* **Tecnologías:** `C#` `WPF` `MS SQL Server`
+* **Lenguaje Principal:** C#
+* **Compatibilidad:** 💻 Windows (Exclusivo)
+* **Descarga:** [Descargar el Binario (v1.2.0)](URL_DE_DESCARGA_BINARIO)
+    
+    [![Descargar](https://img.shields.io/badge/Descarga-Demo-darkgreen?style=for-the-badge&logo=download&logoColor=white)](URL_DE_DESCARGA_BINARIO)
+
+---
+
+### **[Nombre del Proyecto Privado 2]**
+
+> [Descripción: Aplicación móvil para el seguimiento de inventario en tiempo real.]
+
+* **Tecnologías:** `Dart` `Flutter` `Firebase`
+* **Lenguaje Principal:** Dart
+* **Compatibilidad:** 📱 Android | 🍎 iOS
+* **Descarga:** [Descargar APK/Demo](URL_DE_DESCARGA_APK)
+
+---
 
 
 
 
-
-
+* **Tecnologías:** [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](URL) 
+    [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](URL)
+  
 
 
 
