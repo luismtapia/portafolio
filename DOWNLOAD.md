@@ -14,6 +14,15 @@ Bienvenido/a a mi repositorio de aplicaciones Android. Aquí encontrarás una li
 Lista de proyectos creados en flutter, dart que puedes descargar.
 Los repositorios privados ![Repositorio privado](https://raw.githubusercontent.com/primer/octicons/main/icons/lock-24.svg) solo estan disponibles para descarga, en cambio los publicos ![Repositorio publicoo](https://raw.githubusercontent.com/primer/octicons/main/icons/unlock-24.svg) puedes acceder a todo el código
 
+
+
+
+
+<!--
+================================================================================
+                                MEDICAL                                  
+================================================================================
+-->
 <br><br>
 <h2 align="center">
 Medical
@@ -39,7 +48,7 @@ Es una herramienta diseñada para simplificar los cálculos de dosificación y g
 
 
 <div align="center">
-<img src="https://github.com/luismtapia/portafolio/blob/master/archivos/medical.gif" width="400px" alt="Preview gif"/>
+<img src="https://github.com/luismtapia/portafolio/blob/master/archivos/previews/medical.gif" width="400px" alt="Preview gif"/>
 </div>
 
 
@@ -53,6 +62,14 @@ Es una herramienta diseñada para simplificar los cálculos de dosificación y g
 <br>
 <br>
 <br>
+
+
+
+<!--
+================================================================================
+                                ROBLOX CODEs                                 
+================================================================================
+-->
 <h2 align="center">
 Roblox Codes
 </h2>
@@ -77,7 +94,7 @@ Es una herramienta diseñada para simplificar los cálculos de dosificación y g
 
 
 <div align="center">
-<img src="https://github.com/luismtapia/portafolio/blob/master/archivos/roblox.gif" width="400px" alt="Preview gif"/>
+<img src="https://github.com/luismtapia/portafolio/blob/master/archivos/previews/roblox.gif" width="400px" alt="Preview gif"/>
 </div>
 
 ![Icono de repositorio](https://raw.githubusercontent.com/primer/octicons/main/icons/download-24.svg)
