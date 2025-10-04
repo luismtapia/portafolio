@@ -1,3 +1,4 @@
+
 <h2 align="center">
 💼 Portafolio Profesional de Proyectos
 </h2>
@@ -5,9 +6,17 @@
 
 Bienvenido a mi espacio de desarrollo. Este portafolio reúne proyectos desarrollados a lo largo de la carrera y bootcamps. Esta construido en flutter pero tambien hay una version html y css en camino.
 
+
+
 [![Static Badge](https://img.shields.io/badge/Puedes%20ver%20la%20p%C3%A1gina%20aqui-%23F8F0E3?style=flat&logo=googlechrome&logoColor=%23D1061B)](https://luismtapia.github.io/portafolio)
 
 
+
+
+![Static Badge](https://img.shields.io/badge/Repositorios%20P%C3%BAblicos-%23FFFFFF?style=flat&logo=googlechrome&logoColor=%23181717&labelColor=%23Ffffff)
+
+
+![Static Badge](https://img.shields.io/badge/Repositorios%20P%C3%BAblicos-%23FFFFFF?style=flat-square&logo=googlechrome&logoColor=%23181717&labelColor=%23Ffffff)
 
 <br>
 <br>
@@ -57,147 +66,8 @@ Para ver la lista completa de proyectos disponibles para descarga, visita el sig
 <h2 align="center">
 💼 Lista de Proyectos
 </h2>
-
-
-
 <br>
 <br>
-
-
-![Static Badge](https://img.shields.io/badge/Repositorios%20P%C3%BAblicos-%23FFFFFF?style=for-the-badge&logo=github&logoColor=%23181717&labelColor=%23Ffffff)
-
-
-![Static Badge](https://img.shields.io/badge/Repositorios%20P%C3%BAblicos-%23FFFFFF?style=flat&logo=github&logoColor=%23181717&labelColor=%23Ffffff)
-
-
-![Static Badge](https://img.shields.io/badge/Repositorios%20P%C3%BAblicos-%23FFFFFF?style=flat-square&logo=github&logoColor=%23181717&labelColor=%23Ffffff)
-
-
-
-## 🌐 Proyectos Públicos (Open Source)
-
-Proyectos disponibles para la comunidad y que aceptan contribuciones.
-
-### **[Nombre del Proyecto Público 1]**
-
-> [Descripción del proyecto. Sé conciso y enfócate en el valor.]
-
-* **Tecnologías:** `Python` `Django` `PostgreSQL`
-* **Lenguaje Principal:** Python
-* **Compatibilidad:** 💻 Windows | 🍎 macOS | 🐧 Linux
-* **Repo:** [Ir al Repositorio](URL_REPO_PUBLICO)
-    
-    [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](URL_REPO_PUBLICO)
-
----
-
-### **[Nombre del Proyecto Público 2]**
-
-> [Sistema de autenticación y manejo de sesiones con JWT.]
-
-* **Tecnologías:** `Node.js` `Express` `MongoDB`
-* **Lenguaje Principal:** JavaScript (ES6+)
-* **Compatibilidad:** ☁️ Web
-* **Repo:** [Ir al Repositorio](URL_REPO_PUBLICO_2)
-
----
-
-
-## 🔒 Proyectos Privados (Internos y Clientes)
-
-Soluciones desarrolladas bajo contrato o para uso interno, con la opción de descargar una versión *demo* o binaria para su uso.
-
-### **[Nombre del Proyecto Privado 1]**
-
-> [Descripción: Herramienta de automatización de informes financieros para un cliente.]
-
-* **Tecnologías:** `C#` `WPF` `MS SQL Server`
-* **Lenguaje Principal:** C#
-* **Compatibilidad:** 💻 Windows (Exclusivo)
-* **Descarga:** [Descargar el Binario (v1.2.0)](URL_DE_DESCARGA_BINARIO)
-    
-    [![Descargar](https://img.shields.io/badge/Descarga-Demo-darkgreen?style=for-the-badge&logo=download&logoColor=white)](URL_DE_DESCARGA_BINARIO)
-
----
-
-### **[Nombre del Proyecto Privado 2]**
-
-> [Descripción: Aplicación móvil para el seguimiento de inventario en tiempo real.]
-
-* **Tecnologías:** `Dart` `Flutter` `Firebase`
-* **Lenguaje Principal:** Dart
-* **Compatibilidad:** 📱 Android | 🍎 iOS
-* **Descarga:** [Descargar APK/Demo](URL_DE_DESCARGA_APK)
-
----
-
-
-
-
-* **Tecnologías:** [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](URL) 
-    [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](URL)
-  
-
-
-
-
-<!--
-================================================================================
-                      PROYECTOS MÓVILES EN FLUTTER                                  
-================================================================================
--->
-
-<h3 align="center">
-  <img src="https://cdn.simpleicons.org/flutter/02569B" alt="Flutter" width="24" height="24">
-  <span style="color:#02569B; font-weight:bold;">Flutter</span>
-</h3>
-
-<div align="right">
-  <img src="https://cdn.simpleicons.org/android/3DDC84" alt="Android" width="24" height="24">
-</div>
-
-<div align="right">
-  <a href="/DOWNLOAD.md">
-    <img src="https://img.shields.io/badge/Descargas-%2385C8C8?style=flat&logo=android&logoColor=3DDC84" alt="Descargas">
-  </a>
-</div>
-
-
-
-
-
-
-- **[Medical](/DOWNLOAD.md#medical)** — Gestión médica modular
-- **Roblox Codes** — Visualización y administración de códigos de juego
-- **Portafolio** — Presentación profesional interactiva
-- **MiAgendApp** — Agenda personal con recordatorios
-- **Notas Rápidas** — Captura instantánea y sincronización
-
-
-
-
-
-> 🛠️ **Desarrollado en:** Todos los proyectos están construidos con **Flutter** y **Dart**, integrando soluciones multiplataforma.
-
-
-
-
----
-
-
-
-
-
-| Proyecto | Descripción Breve | Enlace / Estado |
-| :--- | :--- | :--- |
-| **Medical** | Gestión y seguimiento de información médica.| [Ver Proyecto](LINK_AQUI) |
-| **Roblox Codes** | Visualización y administración de códigos de juego.| En Desarrollo |
-| **Portafolio** | Portafolio digital personal y responsivo. | [Ver Live Demo](LINK_AQUI) |
-| **MiAgendApp** | Agenda digital para citas y organización perso| Versión 1.0 |
-| **Notas Rapidas** | Aplicación minimalista para tomar notas al vuelo. | Disponible |
-
-
----
 
 
 
@@ -210,22 +80,103 @@ Soluciones desarrolladas bajo contrato o para uso interno, con la opción de des
 
 <!--
 ================================================================================
-                      PROYECTOS npm                                  
+             PROYECTOS PÚBLICOS                                
 ================================================================================
 -->
-<br>
-<br>
-<br>
-<br>
-<br>
-<h3 align="center">
-Paquetes de software 
-</h3>
 
 
 
+
+### 🌐 Proyectos Públicos
+![Static Badge](https://img.shields.io/badge/Open%20source-%23FFFFFF?style=for-the-badge&logo=opensourceinitiative&logoColor=%233DA639&labelColor=%23FFFFFF)
+
+<br>
+
+_Proyectos disponibles para la comunidad y que aceptan contribuciones._
+
+<br><br><br>
+
+<h2 align="center">
+Analizador de texto 📈
+</h2>
+
+
+
+
+<p align="right">
+  <img src="https://cdn.simpleicons.org/node.js/3DDC84" alt="Node js" width="24" height="24">
+</p>
+
+> Este proyecto se encuentra disponible en npm y permite analizar cadenas de texto o archivo .txt y obtener datos como `numero de palabras, espacios, carácteres...`
+
+
+
+<br>
+<br>
+
+
+
+![Static Badge](https://img.shields.io/badge/Tecnologías:-%23FFFFFF?style=for-the-badge&logo=iterm2&logoColor=%23181717&labelColor=%23Ffffff)
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="Javascript" width="18" height="18">
+  <span style="color:#F7DF1E; font-weight:bold;">Javascript</span>
+  | 
+  <img src="https://cdn.simpleicons.org/npm/CB3837" alt="Flutter" width="16" height="16">
+  <span style="color:#CB3837; font-weight:bold;">NPM</span>  
+|    
+<img src="https://cdn.simpleicons.org/node.js/5FA04E" alt="Supabase" width="18" height="18">
+  <span style="color:#5FA04E; font-weight:bold;">Node.js</span>
+
+</p>
+
+
+
+
+
+<br>
+<br>
+   
+
+![Static Badge](https://img.shields.io/badge/Repositorio%20P%C3%BAblico-%23FFFFFF?style=flat-square&logo=github&logoColor=%23181717&labelColor=%23Ffffff)
+ 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luismtapia&repo=analyzer-text)](https://github.com/luismtapia/analyzer-text)
+
+
+   
+<br>
+<br>
+
+**Compatibilidad:** 💻 Node.js | npm
+
+
+<br>
+<br>
+
+**Instalar**
+
+[![npm version](https://img.shields.io/npm/v/analyzer-text.svg)](https://www.npmjs.com/package/analyzer-text)
+[![downloads](https://img.shields.io/npm/dt/analyzer-text.svg)](https://www.npmjs.com/package/analyzer-text)
+
+
+
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <br>
