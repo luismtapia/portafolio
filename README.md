@@ -88,7 +88,7 @@ Para ver la lista completa de proyectos disponibles para descarga, visita el sig
 
 
 ### 🌐 Proyectos Públicos
-![Static Badge](https://img.shields.io/badge/Open%20source-%23FFFFFF?style=for-the-badge&logo=opensourceinitiative&logoColor=%233DA639&labelColor=%23FFFFFF)
+[![Static Badge](https://img.shields.io/badge/Open%20source-%23FFFFFF?style=for-the-badge&logo=opensourceinitiative&logoColor=%233DA639&labelColor=%23FFFFFF)](https://opensource.org/)
 
 <br>
 
@@ -102,9 +102,12 @@ Analizador de texto 📈
 
 
 
+    
 
 <p align="right">
-  <img src="https://cdn.simpleicons.org/node.js/3DDC84" alt="Node js" width="24" height="24">
+   <a href="https://nodejs.org/es">
+        <img src="https://cdn.simpleicons.org/node.js/3DDC84" alt="Node js" width="24" height="24">
+    </a>
 </p>
 
 > Este proyecto se encuentra disponible en npm y permite analizar cadenas de texto o archivo .txt y obtener datos como `numero de palabras, espacios, carácteres...`
@@ -116,17 +119,17 @@ Analizador de texto 📈
 
 
 
-![Static Badge](https://img.shields.io/badge/Tecnologías:-%23FFFFFF?style=for-the-badge&logo=iterm2&logoColor=%23181717&labelColor=%23Ffffff)
+[![Static Badge](https://img.shields.io/badge/Tecnologías:-%23FFFFFF?style=for-the-badge&logo=iterm2&logoColor=%23181717&labelColor=%23Ffffff)](https://node.js/es)
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="Javascript" width="18" height="18">
-  <span style="color:#F7DF1E; font-weight:bold;">Javascript</span>
-  | 
-  <img src="https://cdn.simpleicons.org/npm/CB3837" alt="Flutter" width="16" height="16">
-  <span style="color:#CB3837; font-weight:bold;">NPM</span>  
+   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="Javascript" width="18" height="18">
+   <span style="color:#F7DF1E; font-weight:bold;">Javascript</span>
+| 
+   <img src="https://cdn.simpleicons.org/npm/CB3837" alt="npm" width="16" height="16">
+   <span style="color:#CB3837; font-weight:bold;">npm</span>  
 |    
-<img src="https://cdn.simpleicons.org/node.js/5FA04E" alt="Supabase" width="18" height="18">
-  <span style="color:#5FA04E; font-weight:bold;">Node.js</span>
+   <img src="https://cdn.simpleicons.org/node.js/5FA04E" alt="node" width="18" height="18">
+   <span style="color:#5FA04E; font-weight:bold;">Node.js</span>
 
 </p>
 
