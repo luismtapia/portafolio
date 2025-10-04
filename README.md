@@ -30,27 +30,6 @@ Bienvenido a mi espacio de desarrollo. Este portafolio reúne proyectos desarrol
 
 
 
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<h2 align="center">
-   📥 Descargas
-</h2>
-
-<br>
-
-Para ver la lista completa de proyectos disponibles para descarga, visita el siguiente archivo:
-
-<div align="right">
-   
-👉
-[![Static Badge](https://img.shields.io/badge/Descargas-%2385C8C8?style=flat&logo=abdownloadmanager&logoColor=%2300465B)](/DOWNLOAD.md)
-
-</div>
-
 
 
 
@@ -87,19 +66,53 @@ Para ver la lista completa de proyectos disponibles para descarga, visita el sig
 
 
 
-### 🌐 Proyectos Públicos
-[![Static Badge](https://img.shields.io/badge/Open%20source-%23FFFFFF?style=for-the-badge&logo=opensourceinitiative&logoColor=%233DA639&labelColor=%23FFFFFF)](https://opensource.org/)
-
+### 🌐 Proyectos Públicos  [![Static Badge](https://img.shields.io/badge/Open%20source-%23FFFFFF?style=for-the-badge&logo=opensourceinitiative&logoColor=%233DA639&labelColor=%23FFFFFF)](https://opensource.org/)
 <br>
 
 _Proyectos disponibles para la comunidad y que aceptan contribuciones._
+<br><br>
 
-<br><br><br>
 
+[![Analizador de textos](https://img.shields.io/badge/Analizador%20de%20textos-%23FFFFFF?style=flat-square&logo=github&logoColor=%23181717&labelColor=%23Ffffff)](#analizador-de-texto)
+
+[![Podo Step](https://img.shields.io/badge/PodoStep-%23FFFFFF?style=flat-square&logo=github&logoColor=%23181717&labelColor=%23Ffffff)](#podo-step)
+
+[![Semaforo](https://img.shields.io/badge/Semaforo-%23FFFFFF?style=flat-square&logo=github&logoColor=%23181717&labelColor=%23Ffffff)](#semaforo)
+
+[![Banco](https://img.shields.io/badge/Banco-%23FFFFFF?style=flat-square&logo=github&logoColor=%23181717&labelColor=%23Ffffff)](#banco)
+
+[![Memoria](https://img.shields.io/badge/Memoria-%23FFFFFF?style=flat-square&logo=github&logoColor=%23181717&labelColor=%23Ffffff)](#memoria-texto)
+
+[![Archivos](https://img.shields.io/badge/Archivos-%23FFFFFF?style=flat-square&logo=github&logoColor=%23181717&labelColor=%23Ffffff)](#archivos)
+
+[![chatLS](https://img.shields.io/badge/ChatLynceSpace-%23FFFFFF?style=flat-square&logo=github&logoColor=%23181717&labelColor=%23Ffffff)](#chatLS)
+
+[![Adopta Pet](https://img.shields.io/badge/Adoptapet-%23FFFFFF?style=flat-square&logo=github&logoColor=%23181717&labelColor=%23Ffffff)](#)
+
+[![SBR](https://img.shields.io/badge/Sistema%20Basado%20en%20Reglas-%23FFFFFF?style=flat-square&logo=github&logoColor=%23181717&labelColor=%23Ffffff)](#)
+
+
+
+
+
+privados
+
+
+[![Portafolio flutter](https://img.shields.io/badge/Portafolio-%23FFFFFF?style=flat-square&logo=refinedgithub&logoColor=%23181717&labelColor=%23Ffffff)](#portafolio)
+
+[![Medical](https://img.shields.io/badge/Medical-%23FFFFFF?style=flat-square&logo=refinedgithub&logoColor=%23181717&labelColor=%23Ffffff)](#medical)
+
+[![Roblox codes](https://img.shields.io/badge/Roblox%20Codes-%23FFFFFF?style=flat-square&logo=refinedgithub&logoColor=%23181717&labelColor=%23Ffffff)](#roblox-codes)
+
+[![Podostock](https://img.shields.io/badge/Podostock-%23FFFFFF?style=flat-square&logo=refinedgithub&logoColor=%23181717&labelColor=%23Ffffff)](#podostock)
+
+
+<br><br>
 <h2 align="center">
-Analizador de texto 📈
+   Analizador de texto
 </h2>
 
+## Analizador de Texto
 
 
     
@@ -229,6 +242,35 @@ Java
 
 
 
+
+
+
+
+
+
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<h2 align="center">
+   📥 Descargas
+</h2>
+
+<br>
+
+Para ver la lista completa de proyectos disponibles para descarga, visita el siguiente archivo:
+
+<div align="right">
+   
+👉
+[![Static Badge](https://img.shields.io/badge/Descargas-%2385C8C8?style=flat&logo=abdownloadmanager&logoColor=%2300465B)](/DOWNLOAD.md)
+
+</div>
 
 
 
