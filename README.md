@@ -609,7 +609,7 @@ Para ver la lista completa de proyectos disponibles para descarga, visita el sig
 
 
 <p align="center">
-  <sub>© Appxion · Soluciones modulares para salud, educación y empresas</sub>
+  <sub>© Appxion · Soluciones de software para tu negocio | Luis Manuel Tapia Bautista </sub>
 </p>
 
 
