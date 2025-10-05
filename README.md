@@ -14,7 +14,7 @@ Bienvenido a mi espacio de desarrollo. Este portafolio reúne proyectos desarrol
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luismtapia&layout=donut)](https://github.com/luismtapia/github-readme-stats)
+[![Lenguajes de Programacion](https://github-readme-stats.vercel.app/api/top-langs/?username=luismtapia&layout=donut)](https://github.com/luismtapia)
 
 
 
@@ -80,6 +80,7 @@ Bienvenido a mi espacio de desarrollo. Este portafolio reúne proyectos desarrol
 _Proyectos disponibles para la comunidad y que aceptan contribuciones._
 <br><br>
 
+1. [![Portafolio flutter](https://img.shields.io/badge/Portafolio-%23FFFFFF?style=flat-square&logo=refinedgithub&logoColor=%23181717&labelColor=%23Ffffff)](#portafolio)
 
 1. [![Analizador de textos](https://img.shields.io/badge/Analizador%20de%20textos-%23FFFFFF?style=flat-square&logo=github&logoColor=%23181717&labelColor=%23Ffffff)](#analizador-de-texto)
 
@@ -89,15 +90,15 @@ _Proyectos disponibles para la comunidad y que aceptan contribuciones._
 
 1. [![Banco](https://img.shields.io/badge/Banco-%23FFFFFF?style=flat-square&logo=github&logoColor=%23181717&labelColor=%23Ffffff)](#banco)
 
-1. [![Memoria](https://img.shields.io/badge/Memoria-%23FFFFFF?style=flat-square&logo=github&logoColor=%23181717&labelColor=%23Ffffff)](#memoria-texto)
+1. [![Memoria](https://img.shields.io/badge/Memoria-%23FFFFFF?style=flat-square&logo=github&logoColor=%23181717&labelColor=%23Ffffff)](#memoria)
 
 1. [![Archivos](https://img.shields.io/badge/Archivos-%23FFFFFF?style=flat-square&logo=github&logoColor=%23181717&labelColor=%23Ffffff)](#archivos)
 
 1. [![chatLS](https://img.shields.io/badge/ChatLynceSpace-%23FFFFFF?style=flat-square&logo=github&logoColor=%23181717&labelColor=%23Ffffff)](#chatLS)
 
-1. [![Adopta Pet](https://img.shields.io/badge/Adoptapet-%23FFFFFF?style=flat-square&logo=github&logoColor=%23181717&labelColor=%23Ffffff)](#)
+1. [![Adopta Pet](https://img.shields.io/badge/Adoptapet-%23FFFFFF?style=flat-square&logo=github&logoColor=%23181717&labelColor=%23Ffffff)](#adoptapet)
 
-1. [![SBR](https://img.shields.io/badge/Sistema%20Basado%20en%20Reglas-%23FFFFFF?style=flat-square&logo=github&logoColor=%23181717&labelColor=%23Ffffff)](#)
+1. [![SBR](https://img.shields.io/badge/Sistema%20Basado%20en%20Reglas-%23FFFFFF?style=flat-square&logo=github&logoColor=%23181717&labelColor=%23Ffffff)](#sistema-basado-en-reglas)
 
 
 
@@ -105,11 +106,14 @@ _Proyectos disponibles para la comunidad y que aceptan contribuciones._
 
 ### 🔒 Proyectos Privados (Internos y Clientes)
 
+[![Static Badge](https://img.shields.io/badge/copyright%20source-%23FFFFFF?style=for-the-badge&logo=letsencrypt&logoColor=%23003A70&labelColor=%23FFFFFF)](https://opensource.org/)
+
+
 _Soluciones desarrolladas bajo contrato o para uso interno, con la opción de descargar una versión **demo** o binaria para su uso._
 
 <br>
 
-1. [![Portafolio flutter](https://img.shields.io/badge/Portafolio-%23FFFFFF?style=flat-square&logo=refinedgithub&logoColor=%23181717&labelColor=%23Ffffff)](#portafolio)
+1. 
 
 1. [![Medical](https://img.shields.io/badge/Medical-%23FFFFFF?style=flat-square&logo=refinedgithub&logoColor=%23181717&labelColor=%23Ffffff)](#medical)
 
@@ -130,6 +134,53 @@ _Soluciones desarrolladas bajo contrato o para uso interno, con la opción de de
 <!--==================================================================
              PROYECTOS PÚBLICOS                                
 ======================================================================-->
+
+<br><br><br><br>
+## Portafolio Flutter
+<p align="right">
+    <a href="https://docs.github.com/es/pages">
+        <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" alt="Desarrollo" width="48" height="48">
+    </a>
+</p>
+
+![Static Badge](https://img.shields.io/badge/Repositorio%20P%C3%BAblico-%23FFFFFF?style=flat-square&logo=github&logoColor=%23181717&labelColor=%23Ffffff)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luismtapia&repo=portafolio-flutter)](https://github.com/luismtapia/portafolio-flutter)
+
+<br><br>
+
+![Static Badge](https://img.shields.io/badge/Tecnologías:-%23FFFFFF?style=for-the-badge&logo=iterm2&logoColor=%23181717&labelColor=%23Ffffff)
+
+<p align="center">
+    <img src="https://cdn.simpleicons.org/flutter/02569B" alt="Flutter" width="44" height="44">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    <img src="https://cdn.simpleicons.org/dart/0175C2" alt="Dart" width="48" height="48">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    <img src="https://cdn.simpleicons.org/gradle/02303A" alt="Gradle" width="48" height="48">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    <img src="https://cdn.simpleicons.org/xml/005FAD" alt="xml" width="48" height="48">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    <img src="https://cdn.simpleicons.org/yaml/CB171E" alt="yaml" width="48" height="48">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  
+
+
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg" alt="Dart" width="64" height="64" />
+
+  <img src="https://cdn.simpleicons.org/dart/E34F26" alt="Dart" width="48" height="48">
+  <span font-weight:bold;">dart</span>
+</p>
+
+<br><br>
+
+[![Static Badge](https://img.shields.io/badge/Android-%20%23FFFFFF?style=flat&logo=android&logoColor=%233DDC84&logoSize=auto&labelColor=FFFFFF&color=3DDC84)](https://github.com/luismtapia/portafolio/raw/refs/heads/master/archivos/apks/portafolio.apk)
+&nbsp;&nbsp;
+[![Static Badge](https://img.shields.io/badge/iOS%20-%20%23FFFFFF?style=flat&logo=apple&logoColor=%23000000&logoSize=auto&labelColor=%23FFFFFF&color=%23000000)](https://github.com/luismtapia/portafolio/raw/refs/heads/master/archivos/apks/portafolio.apk)
+
+
+---
+
 <br><br>
 <h2 align="center">
    Package utilizable npm
@@ -207,7 +258,7 @@ _Soluciones desarrolladas bajo contrato o para uso interno, con la opción de de
 <br><br><br><br>
 
 <h2 align="center">
- 	Podo-Step Landing Page 👣
+ 	Página de internet 👣
 </h2>
 
 ## Podo-Step
