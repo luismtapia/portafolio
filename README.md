@@ -174,6 +174,8 @@ _Soluciones desarrolladas bajo contrato o para uso interno, con la opción de de
 
 <br><br>
 
+Descargar
+
 [![Static Badge](https://img.shields.io/badge/Android-%20%23FFFFFF?style=flat&logo=android&logoColor=%233DDC84&logoSize=auto&labelColor=FFFFFF&color=3DDC84)](https://github.com/luismtapia/portafolio/raw/refs/heads/master/archivos/apks/portafolio.apk)
 &nbsp;&nbsp;
 [![Static Badge](https://img.shields.io/badge/iOS%20-%20%23FFFFFF?style=flat&logo=apple&logoColor=%23000000&logoSize=auto&labelColor=%23FFFFFF&color=%23000000)](https://github.com/luismtapia/portafolio/raw/refs/heads/master/archivos/apks/portafolio.apk)
@@ -193,9 +195,6 @@ _Soluciones desarrolladas bajo contrato o para uso interno, con la opción de de
         <img src="https://cdn.simpleicons.org/node.js/3DDC84" alt="Node js" width="48" height="48">
     </a>
 </p>
-
-> Este proyecto se encuentra disponible en npm y permite analizar cadenas de texto o archivo .txt y obtener datos como `numero de palabras, espacios, carácteres...`
-
 
 
 <br><br>
@@ -231,17 +230,11 @@ _Soluciones desarrolladas bajo contrato o para uso interno, con la opción de de
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luismtapia&repo=analyzer-text)](https://github.com/luismtapia/analyzer-text)
 
 
-   
-<br>
-<br>
-
-**Compatibilidad:** 💻 Node.js | npm
-
 
 <br>
 <br>
 
-**Instalar**
+**Lo puedes usar**
 
 [![npm version](https://img.shields.io/npm/v/analyzer-text.svg)](https://www.npmjs.com/package/analyzer-text)
 [![downloads](https://img.shields.io/npm/dt/analyzer-text.svg)](https://www.npmjs.com/package/analyzer-text)
@@ -268,8 +261,6 @@ _Soluciones desarrolladas bajo contrato o para uso interno, con la opción de de
         <img src="https://cdn.simpleicons.org/githubpages/1B6AC6" alt="Desarrollo" width="64" height="64">
     </a>
 </p>
-
-> Este proyecto se encuentra disponible en npm y permite analizar cadenas de texto o archivo .txt y obtener datos como `numero de palabras, espacios, carácteres...`
 
 <br><br>
 
@@ -302,15 +293,12 @@ _Soluciones desarrolladas bajo contrato o para uso interno, con la opción de de
 <br>
 <br>
 
-**Compatibilidad:** 💻 Web
-
 
 <br>
 <br>
 
-**Descargar**
+**Ver página web**
 
-Ver
 
 ![Static Badge](https://img.shields.io/badge/Android%20-%20%23FFFFFF?style=flat&logo=android&logoColor=%233DDC84&logoSize=auto&labelColor=FFFFFF&color=3DDC84) 
 ![Static Badge](https://img.shields.io/badge/Android%20-%20%23FFFFFF?style=social&logo=android&logoColor=%233DDC84&logoSize=auto&labelColor=FFFFFF&color=3DDC84) 
@@ -335,7 +323,6 @@ Ver
     </a>
 </p>
 
-> Este proyecto se encuentra disponible en npm y permite analizar cadenas de texto o archivo .txt y obtener datos como `numero de palabras, espacios, carácteres...`
 
 <br>
 <br>
