@@ -152,24 +152,19 @@ _Soluciones desarrolladas bajo contrato o para uso interno, con la opción de de
 ![Static Badge](https://img.shields.io/badge/Tecnologías:-%23FFFFFF?style=for-the-badge&logo=iterm2&logoColor=%23181717&labelColor=%23Ffffff)
 
 <p align="center">
-    <img src="https://cdn.simpleicons.org/flutter/02569B" alt="Flutter" width="44" height="44">
+    <img src="https://cdn.simpleicons.org/flutter/02569B" alt="Flutter" width="36" height="36">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    <img src="https://cdn.simpleicons.org/dart/0175C2" alt="Dart" width="48" height="48">
+    <img src="https://cdn.simpleicons.org/dart/0175C2" alt="Dart" width="36" height="36">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
     <img src="https://cdn.simpleicons.org/gradle/02303A" alt="Gradle" width="48" height="48">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
     <img src="https://cdn.simpleicons.org/xml/005FAD" alt="xml" width="48" height="48">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    <img src="https://cdn.simpleicons.org/yaml/CB171E" alt="yaml" width="48" height="48">
+    <img src="https://cdn.simpleicons.org/yaml/CB171E" alt="yaml" width="42" height="42">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
   
 
 
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg" alt="Dart" width="64" height="64" />
-
-  <img src="https://cdn.simpleicons.org/dart/E34F26" alt="Dart" width="48" height="48">
-  <span font-weight:bold;">dart</span>
 </p>
 
 <br><br>
@@ -183,65 +178,53 @@ Descargar
 
 ---
 
+
+
+
+
+
+
+
 <br><br>
-<h2 align="center">
-   Package utilizable npm
-</h2>
 
 ## Analizador de Texto
 
 <p align="right">
    <a href="https://nodejs.org/es">
-        <img src="https://cdn.simpleicons.org/node.js/3DDC84" alt="Node js" width="48" height="48">
+        <img src="https://cdn.simpleicons.org/node.js/5FA04E" alt="Node js" width="48" height="48">
     </a>
+</p>
+<h2 align="center">
+   Módulo npm
+</h2>
+
+<br><br>
+
+<!--**************** RESOSITORIO ********************-->
+![Static Badge](https://img.shields.io/badge/Repositorio%20P%C3%BAblico-%23FFFFFF?style=flat-square&logo=github&logoColor=%23181717&labelColor=%23Ffffff)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luismtapia&repo=analyzer-text)](https://github.com/luismtapia/analyzer-text)
+
+<br><br>
+
+<!--**************** TECNOLOGIAS ********************-->
+[![Static Badge](https://img.shields.io/badge/Tecnologías:-%23FFFFFF?style=for-the-badge&logo=iterm2&logoColor=%23181717&labelColor=%23Ffffff)](https://node.js/es)
+
+<p align="center">
+   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="Javascript" width="36" height="36">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://cdn.simpleicons.org/npm/CB3837" alt="npm" width="36" height="36">
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://cdn.simpleicons.org/node.js/5FA04E" alt="node" width="36" height="36">
 </p>
 
 
 <br><br>
 
-
-
-[![Static Badge](https://img.shields.io/badge/Tecnologías:-%23FFFFFF?style=for-the-badge&logo=iterm2&logoColor=%23181717&labelColor=%23Ffffff)](https://node.js/es)
-
-<p align="center">
-   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="Javascript" width="18" height="18">
-   <span style="color:#F7DF1E; font-weight:bold;">Javascript</span>
-| 
-   <img src="https://cdn.simpleicons.org/npm/CB3837" alt="npm" width="16" height="16">
-   <span style="color:#CB3837; font-weight:bold;">npm</span>  
-|    
-   <img src="https://cdn.simpleicons.org/node.js/5FA04E" alt="node" width="18" height="18">
-   <span style="color:#5FA04E; font-weight:bold;">Node.js</span>
-
-  <img src="https://skillicons.dev/icons?i=javascript,npm,node?theme=light" />
-</p>
-
-
-
-
-
-<br>
-<br>
-   
-
-![Static Badge](https://img.shields.io/badge/Repositorio%20P%C3%BAblico-%23FFFFFF?style=flat-square&logo=github&logoColor=%23181717&labelColor=%23Ffffff)
- 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luismtapia&repo=analyzer-text)](https://github.com/luismtapia/analyzer-text)
-
-
-
-<br>
-<br>
-
 **Lo puedes usar**
 
 [![npm version](https://img.shields.io/npm/v/analyzer-text.svg)](https://www.npmjs.com/package/analyzer-text)
 [![downloads](https://img.shields.io/npm/dt/analyzer-text.svg)](https://www.npmjs.com/package/analyzer-text)
-
-
-
-
 
 ---
 
@@ -249,10 +232,6 @@ Descargar
 
 
 <br><br><br><br>
-
-<h2 align="center">
- 	Página de internet 👣
-</h2>
 
 ## Podo-Step
 
@@ -263,42 +242,34 @@ Descargar
 </p>
 
 <br><br>
+<h2 align="center">
+ 	Página de internet 👣
+</h2>
+<br><br>
 
+<!--**************** RESOSITORIO ********************-->
+![Static Badge](https://img.shields.io/badge/Repositorio%20P%C3%BAblico-%23FFFFFF?style=flat-square&logo=github&logoColor=%23181717&labelColor=%23Ffffff)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luismtapia&repo=podo-step)](https://github.com/luismtapia/podo-step)
 
+<br><br>
+
+<!--**************** TECNOLOGIAS ********************-->
 ![Static Badge](https://img.shields.io/badge/Tecnologías:-%23FFFFFF?style=for-the-badge&logo=iterm2&logoColor=%23181717&labelColor=%23Ffffff)
 
-
 <p align="center">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="Flutter" width="20" height="20">
-  <span style="color:#E34F26; font-weight:bold;">Html</span>
-  | 
-  <img src="https://cdn.simpleicons.org/css/663399" alt="Css" width="18" height="18">
-  <span style="color:#663399; font-weight:bold;">Css</span>
-
+    <img src="https://cdn.simpleicons.org/html5/E34F26" alt="html" width="36" height="36">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=css" />
 </p>
 
 
 
-<br>
-<br>
-   
-
-![Static Badge](https://img.shields.io/badge/Repositorio%20P%C3%BAblico-%23FFFFFF?style=flat-square&logo=github&logoColor=%23181717&labelColor=%23Ffffff)
- 
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luismtapia&repo=podo-step)](https://github.com/luismtapia/podo-step)
-   
-<br>
-<br>
-
-
-<br>
-<br>
+<br><br>
 
 **Ver página web**
 
+![Static Badge](https://img.shields.io/badge/Pagina%20web-%20%23FFFFFF?style=flat&logo=githubpages&logoColor=%23FCC624&logoSize=auto&labelColor=%23FFFFFF&color=%23FCC624)
 
 ![Static Badge](https://img.shields.io/badge/Android%20-%20%23FFFFFF?style=flat&logo=android&logoColor=%233DDC84&logoSize=auto&labelColor=FFFFFF&color=3DDC84) 
 ![Static Badge](https://img.shields.io/badge/Android%20-%20%23FFFFFF?style=social&logo=android&logoColor=%233DDC84&logoSize=auto&labelColor=FFFFFF&color=3DDC84) 
@@ -311,9 +282,7 @@ Descargar
 
 
 
-<h2 align="center">
- ChatLS 📱
-</h2>
+
 
 # ChatLS
 
@@ -322,53 +291,35 @@ Descargar
         <img src="https://cdn.simpleicons.org/apachenetbeanside/1B6AC6" alt="Desarrollo" width="48" height="48">
     </a>
 </p>
+<br><br>
 
+<h2 align="center">
+ Página web Chat Lince Space 📱
+</h2>
 
-<br>
-<br>
+<br><br>
+<!--**************** RESOSITORIO ********************-->
+![Repositorio Publico](https://img.shields.io/badge/Repositorio%20P%C3%BAblico-%23FFFFFF?style=flat-square&logo=github&logoColor=%23181717&labelColor=%23Ffffff)
+ 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luismtapia&repo=chatLS)](https://github.com/luismtapia/chatLS)
 
+<br><br>
 
-
+<!--**************** TECNOLOGIAS ********************-->
 ![Static Badge](https://img.shields.io/badge/Tecnologías:-%23FFFFFF?style=for-the-badge&logo=iterm2&logoColor=%23181717&labelColor=%23Ffffff)
 
-
 <p align="center">
-
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40" alt="Java Icon" />
 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="Java Icon" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="Java Icon" />
-  
-  <img src="https://cdn.simpleicons.org/flutter/02569B" alt="Flutter" width="20" height="20">
-  <span style="color:#02569B; font-weight:bold;">Java</span>
-  | 
-  <img src="https://cdn.simpleicons.org/dart/02569B" alt="Flutter" width="24" height="24">
-  <span style="color:#02569B; font-weight:bold;">JavaFx</span>
-
+    <img src="https://cdn.simpleicons.org/html5/E34F26" alt="html" width="36" height="36">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=css" />
 </p>
 
 
 
-<br>
-<br>
-   
-
-![Repositorio Publico](https://img.shields.io/badge/Repositorio%20P%C3%BAblico-%23FFFFFF?style=flat-square&logo=github&logoColor=%23181717&labelColor=%23Ffffff)
- 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luismtapia&repo=chatLS)](https://github.com/luismtapia/chatLS)
-
-
-   
-<br>
-<br>
-
-**Compatibilidad:** 💻 Windows | macOS | 🐧 Linux
-
-
-<br>
-<br>
+<br><br>
 
 **Descargar**
 
@@ -388,10 +339,7 @@ Descargar
 
 
 
-<br>
-<br>
-<br>
-<br>
+<br><br><br><br>
 
 
 
@@ -405,15 +353,19 @@ Descargar
   <img src="https://cdn.simpleicons.org/apachenetbeanside/1B6AC6" alt="Android Studio" width="24" height="24">
 </p>
 
-> Este proyecto se encuentra disponible en npm y permite analizar cadenas de texto o archivo .txt y obtener datos como `numero de palabras, espacios, carácteres...`
+<br><br>
 
+
+![Static Badge](https://img.shields.io/badge/Repositorio%20P%C3%BAblico-%23FFFFFF?style=flat-square&logo=github&logoColor=%23181717&labelColor=%23Ffffff)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luismtapia&repo=semaforo)](https://github.com/luismtapia/semaforo)
+
+
+   
 <br>
 <br>
-
-
 
 ![Static Badge](https://img.shields.io/badge/Tecnologías:-%23FFFFFF?style=for-the-badge&logo=iterm2&logoColor=%23181717&labelColor=%23Ffffff)
-
 
 <p align="center">
 
@@ -435,15 +387,6 @@ Descargar
 <br>
    
 
-![Static Badge](https://img.shields.io/badge/Repositorio%20P%C3%BAblico-%23FFFFFF?style=flat-square&logo=github&logoColor=%23181717&labelColor=%23Ffffff)
- 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luismtapia&repo=semaforo)](https://github.com/luismtapia/semaforo)
-
-
-   
-<br>
-<br>
 
 **Compatibilidad:** 💻 Windows | macOS | 🐧 Linux
 
@@ -484,12 +427,20 @@ Descargar
   <img src="https://cdn.simpleicons.org/apachenetbeanside/1B6AC6" alt="Android Studio" width="24" height="24">
 </p>
 
-> Este proyecto se encuentra disponible en npm y permite analizar cadenas de texto o archivo .txt y obtener datos como `numero de palabras, espacios, carácteres...`
 
 <br>
 <br>
 
 
+![Static Badge](https://img.shields.io/badge/Repositorio%20P%C3%BAblico-%23FFFFFF?style=flat-square&logo=github&logoColor=%23181717&labelColor=%23Ffffff)
+ 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luismtapia&repo=banco)](https://github.com/luismtapia/banco)
+
+
+   
+<br>
+<br>
 
 ![Static Badge](https://img.shields.io/badge/Tecnologías:-%23FFFFFF?style=for-the-badge&logo=iterm2&logoColor=%23181717&labelColor=%23Ffffff)
 
@@ -509,15 +460,6 @@ Descargar
 <br>
    
 
-![Static Badge](https://img.shields.io/badge/Repositorio%20P%C3%BAblico-%23FFFFFF?style=flat-square&logo=github&logoColor=%23181717&labelColor=%23Ffffff)
- 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luismtapia&repo=banco)](https://github.com/luismtapia/banco)
-
-
-   
-<br>
-<br>
 
 **Compatibilidad:** 💻 Windows | macOS | 🐧 Linux
 
@@ -599,7 +541,7 @@ Java
 
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luismtapia)](https://github.com/luismtapia/podo-step)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luismtapia)](https://github.com/luismtapia)
 
 
 
